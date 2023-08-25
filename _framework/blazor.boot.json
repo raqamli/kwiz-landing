@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Kwiz.Landing.dll": "sha256-gTVMroSNwcO2s0vGgI73MocrIJbah2KmY5rJihxxJ6g=",
+      "Kwiz.Landing.dll": "sha256-mq9LGtaLzJaQwoxEOriYOyyISKWz0OdLcBDfJJwMogI=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Rt7yZJt5JlklNJNXIMGEwbXFja6wW+cruEVdatMjMUU=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-U+RlVz9NWHEehvemeq3x+gM+U\/rKAuis+P2VF\/jvDXc=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-XCOctJUd08gOiPYVc+oS9bvDR1mMNjAxF7kQ69WHPL8=",
